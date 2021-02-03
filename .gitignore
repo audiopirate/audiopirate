@@ -1,4 +1,4 @@
-build
+**/build
 node_modules
-.eslintcache
-.gitignore
+*.eslintcache
+*.gitignore
