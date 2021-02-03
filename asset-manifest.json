@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/audiopirate.github.io/audiopirate/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/audiopirate.github.io/audiopirate/static/js/main.efefdaa0.chunk.js",
-    "main.js.map": "/audiopirate.github.io/audiopirate/static/js/main.efefdaa0.chunk.js.map",
-    "runtime-main.js": "/audiopirate.github.io/audiopirate/static/js/runtime-main.3b3b054b.js",
-    "runtime-main.js.map": "/audiopirate.github.io/audiopirate/static/js/runtime-main.3b3b054b.js.map",
-    "static/js/2.b237fdc8.chunk.js": "/audiopirate.github.io/audiopirate/static/js/2.b237fdc8.chunk.js",
-    "static/js/2.b237fdc8.chunk.js.map": "/audiopirate.github.io/audiopirate/static/js/2.b237fdc8.chunk.js.map",
-    "static/js/3.343b961f.chunk.js": "/audiopirate.github.io/audiopirate/static/js/3.343b961f.chunk.js",
-    "static/js/3.343b961f.chunk.js.map": "/audiopirate.github.io/audiopirate/static/js/3.343b961f.chunk.js.map",
-    "index.html": "/audiopirate.github.io/audiopirate/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/audiopirate.github.io/audiopirate/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b237fdc8.chunk.js.LICENSE.txt": "/audiopirate.github.io/audiopirate/static/js/2.b237fdc8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/audiopirate.github.io/audiopirate/static/media/logo.6ce24c58.svg"
+    "main.css": "/audiopirate/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/audiopirate/static/js/main.efefdaa0.chunk.js",
+    "main.js.map": "/audiopirate/static/js/main.efefdaa0.chunk.js.map",
+    "runtime-main.js": "/audiopirate/static/js/runtime-main.efd1b13a.js",
+    "runtime-main.js.map": "/audiopirate/static/js/runtime-main.efd1b13a.js.map",
+    "static/js/2.b237fdc8.chunk.js": "/audiopirate/static/js/2.b237fdc8.chunk.js",
+    "static/js/2.b237fdc8.chunk.js.map": "/audiopirate/static/js/2.b237fdc8.chunk.js.map",
+    "static/js/3.343b961f.chunk.js": "/audiopirate/static/js/3.343b961f.chunk.js",
+    "static/js/3.343b961f.chunk.js.map": "/audiopirate/static/js/3.343b961f.chunk.js.map",
+    "index.html": "/audiopirate/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/audiopirate/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b237fdc8.chunk.js.LICENSE.txt": "/audiopirate/static/js/2.b237fdc8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/audiopirate/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b3b054b.js",
+    "static/js/runtime-main.efd1b13a.js",
     "static/js/2.b237fdc8.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.efefdaa0.chunk.js"
